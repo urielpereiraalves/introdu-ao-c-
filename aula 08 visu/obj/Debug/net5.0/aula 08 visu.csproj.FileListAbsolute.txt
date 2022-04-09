@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\aula 08 visu\obj\Debug\net5.0\aula 08 visu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\aula 08 visu\obj\Debug\net5.0\aula 08 visu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\aula 08 visu\obj\Debug\net5.0\aula 08 visu.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\aula 08 visu\obj\Debug\net5.0\aula 08 visu.AssemblyInfo.cs
+C:\Users\User\Desktop\aula 08 visu\obj\Debug\net5.0\aula 08 visu.csproj.CoreCompileInputs.cache
